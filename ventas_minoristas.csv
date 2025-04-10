@@ -1,0 +1,202 @@
+ID_Transaccion,Fecha,Producto,Categoria,Cantidad,Precio_Unitario,Ciudad,Canal_Venta,Total_Venta
+T-1000,2024-08-08,Onto,Electrónica,7,24.94,Madrid,Online,174.58
+T-1001,2024-06-19,Red,Electrónica,4,54.45,Madrid,Online,217.8
+T-1002,2025-03-05,Ready,Moda,8,21.45,Barcelona,Online,171.6
+T-1003,2025-01-27,Opportunity,Hogar,5,139.08,Madrid,Online,695.4
+T-1004,2024-06-29,Better,Hogar,7,132.21,Madrid,Tienda Física,925.47
+T-1005,2024-11-09,,Hogar,3,42.4,Valencia,Online,127.2
+T-1006,2024-06-02,Soon,Electrónica,7,100.7,Madrid,Online,704.9
+T-1007,2024-07-02,Career,Juguetes,8,123.5,Bilbao,Tienda Física,988.0
+T-1008,2025-02-11,Million,Electrónica,5,85.5,Barcelona,Tienda Física,427.5
+T-1009,2024-08-28,Over,Juguetes,4,81.8,Valencia,Online,327.2
+T-1010,2024-12-14,City,Alimentos,8,,Sevilla,Tienda Física,320.56
+T-1011,2024-11-15,Impact,Electrónica,8,18.5,Barcelona,Online,148.0
+T-1012,2025-03-31,Hotel,Electrónica,3,135.1,Bilbao,Online,405.3
+T-1013,2025-03-20,Newspaper,Electrónica,6,135.56,Barcelona,Tienda Física,813.36
+T-1014,2024-11-10,Ask,Hogar,5,96.8,Bilbao,Online,484.0
+T-1015,2024-07-01,Reflect,Hogar,2,54.16,Bilbao,Tienda Física,108.32
+T-1016,2024-09-09,Clear,Juguetes,8,55.64,Sevilla,Online,445.12
+T-1017,2024-12-15,Stock,Juguetes,6,110.26,Barcelona,Online,661.56
+T-1018,2025-02-10,Right,Electrónica,2,135.08,Sevilla,Tienda Física,270.16
+T-1019,2025-01-10,Place,Juguetes,5,133.63,Sevilla,Tienda Física,668.15
+T-1020,2024-09-20,Company,Hogar,1,118.08,Barcelona,Tienda Física,118.08
+T-1021,2024-04-09,Such,Juguetes,6,98.09,Madrid,Online,588.54
+T-1022,2024-07-13,Tough,Alimentos,9,17.2,Madrid,Online,154.8
+T-1023,2024-11-25,List,Hogar,1,28.44,Sevilla,Online,28.44
+T-1024,2024-11-08,Control,Alimentos,3,135.29,Valencia,Online,405.87
+T-1025,2024-11-21,Prove,Juguetes,7,92.93,Sevilla,Tienda Física,650.51
+T-1026,2024-05-10,North,Moda,4,6.33,Sevilla,Tienda Física,25.32
+T-1027,2024-05-15,Probably,Electrónica,9,19.71,Sevilla,Tienda Física,177.39
+T-1028,2025-02-13,More,Hogar,3,101.21,Madrid,Online,303.63
+T-1029,2025-02-06,Positive,Alimentos,5,5.73,Madrid,Tienda Física,28.65
+T-1030,2024-08-28,Participant,Moda,3,28.32,Madrid,Tienda Física,84.96
+T-1031,2024-10-17,Central,Moda,7,84.57,Sevilla,Tienda Física,591.99
+T-1032,2024-09-14,Rate,Hogar,5,105.32,Valencia,Tienda Física,526.6
+T-1033,2025-01-11,Any,Hogar,9,99.53,Madrid,Online,895.77
+T-1034,2025-01-05,Central,Moda,7,37.52,Barcelona,Online,262.64
+T-1035,2024-08-13,Learn,Electrónica,2,108.27,Barcelona,Tienda Física,216.54
+T-1036,2024-10-06,Rest,Electrónica,4,39.4,Barcelona,Online,157.6
+T-1037,2024-07-05,Think,Alimentos,9,52.18,Bilbao,Tienda Física,469.62
+T-1038,2025-03-29,Loss,Electrónica,2,113.24,Sevilla,Online,226.48
+T-1039,2025-04-04,Teacher,Moda,9,99.2,Barcelona,Online,892.8
+T-1040,2024-08-16,Military,Moda,5,128.14,Sevilla,Tienda Física,640.7
+T-1041,2024-09-22,Building,Juguetes,2,100.35,Barcelona,Tienda Física,200.7
+T-1042,2024-12-09,His,Moda,4,87.4,Valencia,Tienda Física,349.6
+T-1043,2025-04-07,Fill,Electrónica,7,18.58,Sevilla,Tienda Física,130.06
+T-1044,2024-06-10,Score,Alimentos,8,58.32,Barcelona,Online,466.56
+T-1045,2025-04-08,For,Juguetes,3,43.45,Madrid,Tienda Física,130.35
+T-1046,2024-05-25,Team,Electrónica,1,40.38,Sevilla,Online,40.38
+T-1047,2024-08-10,Large,Alimentos,4,146.09,Bilbao,Tienda Física,584.36
+T-1048,2024-10-10,Toward,Electrónica,2,62.0,Madrid,Online,124.0
+T-1049,2024-10-18,Her,Juguetes,8,134.35,Madrid,Tienda Física,1074.8
+T-1050,2024-05-18,At,Moda,4,96.52,Bilbao,Online,386.08
+T-1051,2024-10-15,Hair,Juguetes,2,120.25,Madrid,Online,240.5
+T-1052,2025-03-09,Big,Moda,6,77.88,Madrid,Tienda Física,467.28
+T-1053,2024-04-29,Charge,Juguetes,6,88.65,Barcelona,Tienda Física,531.9
+T-1054,2024-07-14,Measure,Hogar,4,76.42,Barcelona,Online,305.68
+T-1055,2024-11-11,Color,Electrónica,6,33.31,Sevilla,Tienda Física,199.86
+T-1056,2025-01-17,While,Electrónica,2,109.76,Sevilla,Tienda Física,219.52
+T-1057,2024-12-27,Too,Hogar,2,45.71,Sevilla,Online,91.42
+T-1058,2024-07-28,Pretty,Moda,4,8.53,Barcelona,Tienda Física,34.12
+T-1059,2024-07-04,Easy,Electrónica,8,98.59,Sevilla,Tienda Física,788.72
+T-1060,2024-09-12,Many,Hogar,7,30.68,Madrid,Tienda Física,214.76
+T-1061,2025-03-13,Them,Electrónica,9,141.37,Barcelona,Tienda Física,1272.33
+T-1062,2025-04-08,Generation,Alimentos,8,143.32,Sevilla,Tienda Física,1146.56
+T-1063,2024-06-27,Same,Moda,5,137.66,Madrid,Tienda Física,688.3
+T-1064,2024-08-05,Decision,Alimentos,2,58.67,Sevilla,Online,117.34
+T-1065,2024-06-12,Focus,Moda,5,7.24,Valencia,Online,36.2
+T-1066,2024-10-30,Artist,Hogar,8,139.61,Sevilla,Tienda Física,1116.88
+T-1067,2024-12-07,Plant,Moda,9,67.09,Valencia,Tienda Física,603.81
+T-1068,2024-07-23,Coach,Moda,9,145.16,Sevilla,Online,1306.44
+T-1069,2025-04-02,Sell,Hogar,1,144.72,Bilbao,Tienda Física,144.72
+T-1070,2024-12-08,Start,Moda,9,128.69,Sevilla,Tienda Física,1158.21
+T-1071,2024-09-29,Detail,Electrónica,7,47.7,Barcelona,Online,333.9
+T-1072,2024-10-20,Use,Juguetes,9,60.84,Barcelona,Tienda Física,547.56
+T-1073,2025-03-19,Station,Hogar,8,128.41,Valencia,Tienda Física,1027.28
+T-1074,2024-05-05,Model,Juguetes,1,50.95,Barcelona,Online,50.95
+T-1075,2024-12-28,Member,Hogar,8,29.58,Madrid,Tienda Física,236.64
+T-1076,2024-04-28,Eat,Hogar,8,85.74,Bilbao,Tienda Física,685.92
+T-1077,2024-11-14,Big,Alimentos,3,140.74,Bilbao,Tienda Física,422.22
+T-1078,2025-03-19,Unit,Alimentos,1,105.92,Madrid,Tienda Física,105.92
+T-1079,2024-05-26,Simply,Moda,8,87.66,Valencia,Tienda Física,701.28
+T-1080,2024-09-03,Network,Juguetes,3,19.09,Madrid,Online,57.27
+T-1081,2025-02-21,President,Hogar,3,94.18,Madrid,Tienda Física,282.54
+T-1082,2024-11-20,Its,Moda,1,148.56,Bilbao,Online,148.56
+T-1083,2024-12-02,Lose,Electrónica,5,25.31,Sevilla,Online,126.55
+T-1084,2024-10-10,More,Hogar,7,80.16,Bilbao,Tienda Física,561.12
+T-1085,2024-12-25,Likely,Electrónica,9,132.22,Bilbao,Tienda Física,1189.98
+T-1086,2025-01-22,First,Moda,7,112.41,Barcelona,Online,786.87
+T-1087,2024-06-13,By,Alimentos,9,106.07,Madrid,Online,954.63
+T-1088,2025-02-06,Story,Moda,8,106.86,Bilbao,Tienda Física,854.88
+T-1089,2024-06-30,Year,Electrónica,2,57.13,Madrid,Online,114.26
+T-1090,2024-07-26,Can,Hogar,1,47.57,Barcelona,Online,47.57
+T-1091,2024-08-01,Enough,Juguetes,7,122.36,Madrid,Online,856.52
+T-1092,2025-01-11,Serve,Moda,7,122.47,Bilbao,Online,857.29
+T-1093,2025-02-21,Put,Hogar,8,130.73,Madrid,Online,1045.84
+T-1094,2024-05-03,Political,Alimentos,5,137.42,Barcelona,Online,687.1
+T-1095,2025-02-04,Couple,Alimentos,3,79.14,Sevilla,Tienda Física,237.42
+T-1096,2024-11-24,Hospital,Alimentos,8,77.72,Madrid,Online,621.76
+T-1097,2025-01-17,Arrive,Hogar,6,120.75,Bilbao,Tienda Física,724.5
+T-1098,2024-06-24,Guess,Moda,3,99.24,Barcelona,Tienda Física,297.72
+T-1099,2025-01-23,Reflect,Hogar,1,106.79,Bilbao,Online,106.79
+T-1100,2025-01-30,Beyond,Hogar,3,120.39,Bilbao,Tienda Física,361.17
+T-1101,2024-09-15,Hundred,Juguetes,5,134.05,Madrid,Tienda Física,670.25
+T-1102,2024-06-21,Author,Juguetes,3,54.01,Bilbao,Tienda Física,162.03
+T-1103,2024-11-06,Your,Moda,1,59.46,Madrid,Online,59.46
+T-1104,2024-09-21,Method,Juguetes,5,18.63,Sevilla,Online,93.15
+T-1105,2024-10-22,Parent,Alimentos,7,88.85,Bilbao,Online,621.95
+T-1106,2024-09-27,Social,Juguetes,7,10.21,Bilbao,Online,71.47
+T-1107,2025-02-17,Then,Alimentos,9,72.51,Bilbao,Tienda Física,652.59
+T-1108,2024-07-02,Share,Moda,3,83.68,Valencia,Online,251.04
+T-1109,2024-09-30,Example,Hogar,7,46.55,Valencia,Online,325.85
+T-1110,2024-10-24,Choice,Hogar,1,90.67,Barcelona,Tienda Física,90.67
+T-1111,2024-08-14,Seem,Juguetes,4,9.42,Valencia,Online,37.68
+T-1112,2024-06-10,You,Alimentos,4,10.42,Barcelona,Online,41.68
+T-1113,2024-09-18,Avoid,Electrónica,5,124.28,Valencia,Online,621.4
+T-1114,2024-08-20,Each,Electrónica,7,57.23,Sevilla,Tienda Física,400.61
+T-1115,2024-07-10,Left,Electrónica,7,23.42,Barcelona,Online,163.94
+T-1116,2025-02-04,Report,Hogar,4,80.73,Valencia,Tienda Física,322.92
+T-1117,2024-10-21,Action,Hogar,7,116.65,Sevilla,Tienda Física,816.55
+T-1118,2025-03-02,One,Alimentos,3,36.29,Valencia,Tienda Física,108.87
+T-1119,2024-06-18,House,Juguetes,6,95.32,Madrid,Tienda Física,571.92
+T-1120,2025-01-08,Mission,Electrónica,2,17.38,Madrid,Tienda Física,34.76
+T-1121,2024-11-12,Environmental,Alimentos,9,12.49,Sevilla,Online,112.41
+T-1122,2025-01-07,Peace,Alimentos,5,82.05,Bilbao,Tienda Física,410.25
+T-1123,2025-03-29,Record,Juguetes,6,83.39,Bilbao,Tienda Física,500.34
+T-1124,2025-02-06,Debate,Alimentos,4,97.43,Madrid,Tienda Física,389.72
+T-1125,2025-03-29,Issue,Juguetes,7,110.28,Madrid,Online,771.96
+T-1126,2025-01-14,Risk,Moda,9,146.5,Bilbao,Tienda Física,1318.5
+T-1127,2024-12-31,Offer,Juguetes,7,79.86,Barcelona,Tienda Física,559.02
+T-1128,2025-01-21,Strong,Electrónica,1,51.83,Bilbao,Online,51.83
+T-1129,2024-08-30,Stand,Electrónica,1,120.3,Valencia,Tienda Física,120.3
+T-1130,2024-12-21,Majority,Juguetes,9,44.27,Barcelona,Tienda Física,398.43
+T-1131,2024-11-27,Chair,Moda,9,68.65,Valencia,Online,617.85
+T-1132,2025-03-09,Magazine,Moda,4,16.38,Madrid,Tienda Física,65.52
+T-1133,2025-03-09,Collection,Electrónica,9,8.68,Barcelona,Online,78.12
+T-1134,2024-12-07,Money,Moda,3,144.58,Valencia,Tienda Física,433.74
+T-1135,2024-08-06,Thus,Alimentos,7,126.22,Valencia,Tienda Física,883.54
+T-1136,2024-10-23,Prevent,Hogar,6,105.92,Barcelona,Tienda Física,635.52
+T-1137,2024-10-29,Defense,Alimentos,8,64.3,Sevilla,Online,514.4
+T-1138,2024-07-10,Rest,Electrónica,9,30.13,Bilbao,Online,271.17
+T-1139,2024-05-23,Few,Moda,5,27.68,Valencia,Online,138.4
+T-1140,2024-09-02,Off,Juguetes,1,41.29,Bilbao,Online,41.29
+T-1141,2024-06-28,Yeah,Hogar,3,84.64,Bilbao,Tienda Física,253.92
+T-1142,2024-09-25,Charge,Juguetes,8,108.62,Madrid,Online,868.96
+T-1143,2024-12-13,What,Electrónica,6,100.73,Bilbao,Online,604.38
+T-1144,2025-01-01,Identify,Moda,8,45.59,Valencia,Online,364.72
+T-1145,2024-08-22,Window,Juguetes,9,143.46,Madrid,Tienda Física,1291.14
+T-1146,2024-11-20,Use,Juguetes,4,112.0,Barcelona,Tienda Física,448.0
+T-1147,2024-11-17,Real,Hogar,1,85.38,Valencia,Tienda Física,85.38
+T-1148,2024-12-16,Energy,Hogar,1,93.7,Madrid,Tienda Física,93.7
+T-1149,2024-04-14,Environmental,Moda,4,65.84,Madrid,Tienda Física,263.36
+T-1150,2024-10-30,Than,Hogar,7,40.92,Bilbao,Online,286.44
+T-1151,2024-10-28,Model,Juguetes,2,56.62,Barcelona,Online,113.24
+T-1152,2024-04-22,Require,Juguetes,3,114.89,Valencia,Tienda Física,344.67
+T-1153,2024-06-14,Wear,Electrónica,1,7.09,Valencia,Tienda Física,7.09
+T-1154,2025-02-21,Maintain,Juguetes,5,21.83,Bilbao,Online,109.15
+T-1155,2024-07-05,Be,Moda,1,11.67,Barcelona,Tienda Física,11.67
+T-1156,2024-11-11,Executive,Alimentos,8,10.91,Valencia,Tienda Física,87.28
+T-1157,2025-04-01,Space,Electrónica,1,129.04,Barcelona,Online,129.04
+T-1158,2024-12-13,Apply,Electrónica,1,107.03,Valencia,Tienda Física,107.03
+T-1159,2024-08-09,Help,Moda,2,73.76,Bilbao,Tienda Física,147.52
+T-1160,2025-01-31,Cost,Moda,2,19.19,Sevilla,Tienda Física,38.38
+T-1161,2024-12-25,Ten,Hogar,6,76.28,Valencia,Tienda Física,457.68
+T-1162,2024-05-22,Great,Electrónica,7,73.65,Madrid,Online,515.55
+T-1163,2024-10-30,Myself,Hogar,5,30.11,Madrid,Tienda Física,150.55
+T-1164,2024-09-23,Fast,Juguetes,1,67.91,Sevilla,Online,67.91
+T-1165,2025-01-06,Church,Electrónica,1,62.78,Valencia,Tienda Física,62.78
+T-1166,2024-12-27,Head,Electrónica,3,94.3,Madrid,Tienda Física,282.9
+T-1167,2024-08-08,Win,Alimentos,2,97.09,Madrid,Tienda Física,194.18
+T-1168,2024-08-13,Collection,Electrónica,5,11.57,Valencia,Online,57.85
+T-1169,2024-12-09,Trade,Juguetes,6,59.32,Barcelona,Tienda Física,355.92
+T-1170,2024-06-02,Reduce,Hogar,7,95.75,Valencia,Tienda Física,670.25
+T-1171,2024-12-08,Join,Hogar,4,77.95,Barcelona,Tienda Física,311.8
+T-1172,2024-10-14,Beat,Alimentos,7,129.19,Sevilla,Online,904.33
+T-1173,2024-09-09,Contain,Juguetes,8,100.51,Bilbao,Tienda Física,804.08
+T-1174,2024-04-09,Democratic,Hogar,1,28.63,Sevilla,Online,28.63
+T-1175,2024-09-16,Before,Moda,6,15.23,Bilbao,Online,91.38
+T-1176,2024-04-24,Speech,Juguetes,8,98.15,Madrid,Tienda Física,785.2
+T-1177,2024-08-04,Investment,Juguetes,5,8.84,Madrid,Online,44.2
+T-1178,2024-07-13,Look,Alimentos,4,89.94,Madrid,Online,359.76
+T-1179,2025-02-10,Poor,Hogar,2,141.33,Barcelona,Tienda Física,282.66
+T-1180,2024-10-15,Eight,Juguetes,6,88.44,Bilbao,Online,530.64
+T-1181,2024-10-11,Entire,Hogar,6,61.28,Madrid,Tienda Física,367.68
+T-1182,2024-05-14,Level,Moda,1,98.28,Valencia,Online,98.28
+T-1183,2025-03-17,Yet,Alimentos,9,71.45,Bilbao,Online,643.05
+T-1184,2024-12-05,Choose,Moda,6,84.11,Bilbao,Tienda Física,504.66
+T-1185,2024-09-20,Region,Alimentos,3,141.51,Barcelona,Tienda Física,424.53
+T-1186,2025-01-05,Practice,Juguetes,4,60.98,Sevilla,Tienda Física,243.92
+T-1187,2024-11-06,Together,Alimentos,4,144.37,Barcelona,Online,577.48
+T-1188,2024-11-20,Middle,Electrónica,3,136.28,Madrid,Tienda Física,408.84
+T-1189,2025-03-18,Son,Hogar,3,33.39,Valencia,Tienda Física,100.17
+T-1190,2024-05-05,Commercial,Hogar,3,15.06,Valencia,Tienda Física,45.18
+T-1191,2025-03-28,Left,Electrónica,4,19.61,Madrid,Tienda Física,78.44
+T-1192,2025-02-16,Outside,Moda,7,7.64,Valencia,Tienda Física,53.48
+T-1193,2025-03-15,Move,Electrónica,4,18.69,Barcelona,Tienda Física,74.76
+T-1194,2024-08-21,Somebody,Juguetes,9,104.04,Barcelona,Tienda Física,936.36
+T-1195,2024-10-15,Minute,Juguetes,1,15.32,Madrid,Online,15.32
+T-1196,2024-10-06,Drug,Hogar,8,51.25,Valencia,Tienda Física,410.0
+T-1197,2024-12-29,Month,Juguetes,7,127.51,Bilbao,Online,892.57
+T-1198,2024-12-20,Method,Hogar,2,8.37,Sevilla,Online,16.74
+T-1199,2024-08-24,Store,Electrónica,8,123.1,Bilbao,Tienda Física,984.8
+T-1000,2024-08-08,Onto,Electrónica,7,24.94,Madrid,Online,174.58
