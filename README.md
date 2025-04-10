@@ -15,6 +15,10 @@ Este proyecto tiene como objetivo demostrar el proceso de **limpieza, transforma
 
 ## 🗂️ Estructura del Repositorio
 
+- **data/**: Para almacenar los conjuntos de datos originales y procesados.​
+- **notebooks/**: Para incluir los Jupyter Notebooks que contengan el análisis y la limpieza de datos.​
+- **scripts/**: Para guardar scripts de Python u otros lenguajes utilizados en el proyecto.​
+- **docs/**: Para documentación adicional, informes o recursos relacionados con el proyecto.
 ---
 
 ## 📦 Dataset utilizado
