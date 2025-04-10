@@ -15,3 +15,50 @@ Este proyecto tiene como objetivo demostrar el proceso de **limpieza, transforma
 
 ## 🗂️ Estructura del Repositorio
 
+---
+
+## 📦 Dataset utilizado
+
+Se usará un dataset ficticio de ventas minoristas, incluyendo:
+
+- ID de transacción
+- Fecha
+- Producto
+- Categoría
+- Cantidad
+- Precio unitario
+- Total venta
+- Ciudad
+- Canal de venta
+
+📝 El dataset está disponible en la carpeta `data/raw/`.
+
+---
+
+## 🧪 Proceso aplicado
+
+1. **Carga y revisión inicial de datos**
+2. **Eliminación de duplicados**
+3. **Gestión de valores nulos**
+4. **Corrección de tipos de datos**
+5. **Normalización de formatos**
+6. **Exportación del dataset limpio**
+
+---
+
+## 🔧 Tecnologías y herramientas
+
+- `Python`
+- `Pandas`
+- `Jupyter Notebook`
+- `Visual Studio Code`
+- `OpenRefine` (opcional)
+
+---
+
+## 🗒️ Notas finales
+
+Este proyecto forma parte de mi portafolio profesional como analista de datos, alineado con las mejores prácticas en análisis exploratorio, limpieza y preparación de datos reales o simulados.
+
+---
+
