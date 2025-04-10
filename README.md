@@ -21,21 +21,64 @@ Este proyecto tiene como objetivo demostrar el proceso de **limpieza, transforma
 - **docs/**: Para documentación adicional, informes o recursos relacionados con el proyecto.
 ---
 
-## 📦 Dataset utilizado
 
-Se usará un dataset ficticio de ventas minoristas, incluyendo:
+---
 
-- ID de transacción
-- Fecha
-- Producto
-- Categoría
-- Cantidad
-- Precio unitario
-- Total venta
-- Ciudad
-- Canal de venta
+## 📊 Dataset utilizado
 
-📝 El dataset está disponible en la carpeta `data/raw/`.
+- 📁 `data/raw/ventas_minoristas.csv`
+- Dataset ficticio de ventas retail, incluye:
+  - ID de transacción
+  - Fecha
+  - Producto
+  - Categoría
+  - Cantidad
+  - Precio unitario
+  - Total venta
+  - Ciudad
+  - Canal de venta
+
+El archivo contiene intencionalmente:
+- Registros duplicados
+- Valores nulos
+- Tipos de datos desalineados
+
+---
+
+## 🧪 Flujo de trabajo aplicado
+
+1. **Carga y revisión inicial**
+2. **Detección de valores nulos**
+3. **Tratamiento de duplicados**
+4. **Normalización de texto y formatos**
+5. **Conversión de tipos de datos**
+6. **Exportación de datos limpios**
+
+> Todo este proceso se documenta en el notebook `notebooks/limpieza_datos.ipynb`.
+
+---
+
+## 🛠️ Herramientas utilizadas
+
+- Python
+- Pandas
+- Jupyter Notebook
+- Visual Studio Code
+
+---
+
+## 📈 Resultado
+
+El resultado es un dataset limpio, sin errores estructurales, ideal para análisis posteriores (KPIs, dashboards, segmentación, etc.). Se exporta como `data/processed/ventas_limpias.csv`.
+
+---
+
+## 🤝 Créditos
+
+Este dataset ha sido generado con datos simulados con fines educativos. Proyecto creado como parte del portafolio personal de **[Naiara Rodríguez - Nailytic](https://github.com/Nailytic)**.
+
+---
+
 
 ---
 
